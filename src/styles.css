@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 18px;
+  padding: 30px 50px 30px;
+}
+
+.user-deets {
+  text-align: left;
+}
+
+.user-deets img {
+  border-radius: 10px;
+  width: 200px;
+}
+
+.user-deets h1 {
+  text-decoration: none;
+  color: #40a8f3;
+  font-size: 50px;
+}
+
+.user-deets a {
+  text-decoration: none;
+  color: #40a8f3;
+  transition: 0.3s ease color;
+}
+
+.user-deets a:hover {
+  text-decoration: underline;
+}
+
+.user-deets h3 {
+  font-size: 25px;
+  margin: 0 0 20px;
+  font-weight: 400;
+}
+
+.user-deets p {
+  display: block;
+  font-size: 14px;
+  opacity: 0.5;
+  margin-bottom: 6px;
+}
